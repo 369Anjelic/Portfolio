@@ -1,0 +1,63 @@
+════════════════════════════════════════════════════════════════════════════════
+🎯 DEV PORTFOLIO v2.0 - ALLE WICHTIGEN DATEIEN
+════════════════════════════════════════════════════════════════════════════════
+
+WICHTIGSTE DATEIEN (brauchst du SOFORT):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. dev-portfolio.html ..................... 38 KB
+   ✅ DIE KOMPLETTE APP
+   ✅ Single-File (alles-in-einem)
+   ✅ Doppelklick = App startet
+   ✅ HTML + CSS + Struktur
+
+2. script.js ............................. 19 KB
+   ✅ JavaScript Logik
+   ✅ Auto-Analyse
+   ✅ GitHub-Integration
+   ✅ Dateiverarbeitung
+
+3. KOMPLETTE_INSTALLATION.txt ............ Anleitung
+   ✅ Schritt-für-Schritt auf Deutsch
+   ✅ Alles erklärt
+   ✅ Problemlösung
+
+
+OPTIONAL DATEIEN (für später):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4. README.md ............................ Weitere Infos
+5. INSTALLATION_DEUTSCH.txt ............. Alternative Anleitung
+6. BOT_IN_DEIN_REPOSITORY.md ............ GitHub/Netlify Deploy
+7. DETAILLIERTE_CODE_ERKLÄRUNG.md ...... Code-Dokumentation
+
+
+ALLE ANDEREN DATEIEN:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Alte Projekte / Nicht nötig:
+- Anjelic_Auto_Analyzer_*.html
+- APP_index.html
+- MOi_BOT_BUILDER.html
+- UNWRITTEN_BOT_BUILDER.html
+- KASPAR_BOT_LIVE.html
+- BOT_AKTIVIERT_HOMEPAGE.html
+- index_STYLEGUIDE.html
+- kaspar_bot_engine.js
+- main.js, package.json, preload.js
+- Alle anderen Dateien
+
+
+════════════════════════════════════════════════════════════════════════════════
+ZUSAMMENFASSUNG
+════════════════════════════════════════════════════════════════════════════════
+
+FÜR DIE INSTALLATION BRAUCHST DU NUR:
+  ✅ dev-portfolio.html
+  ✅ script.js
+
+DAS WAR'S!
+
+Speichere beide Dateien im gleichen Ordner und doppelklick auf HTML = FERTIG!
+
+════════════════════════════════════════════════════════════════════════════════

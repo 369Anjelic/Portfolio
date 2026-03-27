@@ -1,0 +1,41 @@
+════════════════════════════════════════════════════════════════════════════════
+🚀 DEV PORTFOLIO - START HIER!
+════════════════════════════════════════════════════════════════════════════════
+
+ALLE DATEIEN DIE DU BRAUCHST:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ dev-portfolio.html ..................... 38 KB (DIE APP)
+✅ script.js ............................ 19 KB (JAVASCRIPT)
+✅ SCHNELLE_ANLEITUNG.txt ............... 3 KB (SCHNELLE ANLEITUNG)
+✅ KOMPLETTE_INSTALLATION.txt ........... 13 KB (AUSFÜHRLICH)
+✅ SOFTWARE_LAYOUT.txt .................. 22 KB (WIE ES AUSSIEHT)
+✅ DATEIEN_UBERSICHT.txt ................ 3 KB (ÜBERSICHT)
+
+
+INSTALLATION IN 3 SCHRITTEN:
+════════════════════════════════════════════════════════════════════════════════
+
+1️⃣  DOWNLOAD ALLE DATEIEN
+    - Download alle 6 Dateien oben
+    - Sie gehen in deine Downloads
+
+2️⃣  ORDNER ERSTELLEN
+    - Öffne: C:\Users\[DEIN_NAME]\Dokumente
+    - Erstelle neuen Ordner: "Dev-Portfolio"
+    - Verschiebe alle 6 Dateien dort rein
+
+3️⃣  APP STARTEN
+    - Doppelklick auf: dev-portfolio.html
+    - 💥 APP LÄDT IM BROWSER!
+
+
+FERTIG!
+════════════════════════════════════════════════════════════════════════════════
+
+Deine Software läuft jetzt unter:
+  C:\Users\[DEIN_NAME]\Dokumente\Dev-Portfolio
+
+Das war's! 🎉
+
+════════════════════════════════════════════════════════════════════════════════

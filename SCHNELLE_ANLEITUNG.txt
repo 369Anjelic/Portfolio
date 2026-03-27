@@ -1,0 +1,53 @@
+════════════════════════════════════════════════════════════════════════════════
+🚀 DEV PORTFOLIO v2.0 - SCHNELLE INSTALLATION (3 KLICKS!)
+════════════════════════════════════════════════════════════════════════════════
+
+DU BRAUCHST NUR 3 KLICKS:
+
+KLICK 1: DATEIEN DOWNLOADEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Download diese 2 Dateien:
+  1. dev-portfolio.html
+  2. script.js
+
+Sie werden als ZIP oder einzeln heruntergeladen.
+
+
+KLICK 2: ORDNER ERSTELLEN & DATEIEN REIN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Öffne File Explorer (Windows-Taste + E)
+
+2. Gehe zu: C:\Users\[DEIN_NAME]\Dokumente
+
+3. Erstelle neuen Ordner: "Dev-Portfolio"
+   → Rechtsklick → Neuer Ordner
+   
+4. Kopiere beide Dateien in diesen Ordner:
+   dev-portfolio.html
+   script.js
+
+WICHTIG: Beide Dateien müssen im GLEICHEN Ordner sein!
+
+
+KLICK 3: APP STARTEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Öffne den Ordner: C:\Users\[DEIN_NAME]\Dokumente\Dev-Portfolio
+
+2. Doppelklick auf: dev-portfolio.html
+
+💥 FERTIG! App startet im Browser!
+
+
+════════════════════════════════════════════════════════════════════════════════
+DAS WAR'S!
+════════════════════════════════════════════════════════════════════════════════
+
+Die Software ist jetzt installiert unter:
+  📁 C:\Users\[DEIN_NAME]\Dokumente\Dev-Portfolio
+
+Die App lädt sich im Browser und ist sofort einsatzbereit!
+
+════════════════════════════════════════════════════════════════════════════════

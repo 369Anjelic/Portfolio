@@ -1,0 +1,254 @@
+════════════════════════════════════════════════════════════════════════════════
+🎨 DEV PORTFOLIO v2.0 - SO SIEHT DIE SOFTWARE AUS
+════════════════════════════════════════════════════════════════════════════════
+
+COLOR SCHEME:
+  🔵 Primär: Blau (#3987b8)
+  ⚪ Sekundär: Weiß (#f4f5f5)
+  🟦 Dunkelgrau (#3e4447)
+  ⬛ Dark Background (#0a0a0a)
+
+
+════════════════════════════════════════════════════════════════════════════════
+LAYOUT - ÜBERBLICK
+════════════════════════════════════════════════════════════════════════════════
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  📊 Dev Portfolio v2.0    | Dashboard ▼                                    │
+│                           |                                                 │
+│  📊 Projekte: 0  📁 Dateien: 0  💻 Zeilen: 0                             │
+└────────────────────────────────────────────────────────────────────────────┘
+│                                                                              │
+│ ┌─ SIDEBAR (LINKS) ──────┐  ┌─ CONTENT (RECHTS) ─────────────────────────┐ │
+│ │                        │  │                                              │ │
+│ │  📊 Dashboard    ✓     │  │  DASHBOARD                                  │ │
+│ │  📤 Upload             │  │  ─────────────────────────────────────────  │ │
+│ │  📁 Projekte           │  │                                              │ │
+│ │  📂 Dateien            │  │  📊 Statistik-Karten (4x):                  │ │
+│ │  📈 Analyse            │  │  ┌──────────────┐ ┌──────────────┐         │ │
+│ │                        │  │  │ 📊 Projekte  │ │ 💻 Zeilen    │         │ │
+│ │                        │  │  │  0           │ │  0           │         │ │
+│ │  Unwritten Studio      │  │  └──────────────┘ └──────────────┘         │ │
+│ │  Anjelic v2.0          │  │  ┌──────────────┐ ┌──────────────┐         │ │
+│ │                        │  │  │ 📁 Dateien   │ │ ⭐ Stars     │         │ │
+│ │                        │  │  │  0           │ │  0           │         │ │
+│ │                        │  │  └──────────────┘ └──────────────┘         │ │
+│ │                        │  │                                              │ │
+│ │                        │  │  🎯 Features (4 Cards):                     │ │
+│ │                        │  │  ┌─────────────────┐ ┌─────────────────┐  │ │
+│ │                        │  │  │ 🔍 Auto-Analyse │ │ 🌐 GitHub API   │  │ │
+│ │                        │  │  │ Code, Skills    │ │ Automatisch     │  │ │
+│ │                        │  │  └─────────────────┘ └─────────────────┘  │ │
+│ │                        │  │  ┌─────────────────┐ ┌─────────────────┐  │ │
+│ │                        │  │  │ 📂 Dateistruktur│ │ 📈 Analyse      │  │ │
+│ │                        │  │  │ Alle Dateien    │ │ Skills, Sprachen│  │ │
+│ │                        │  │  └─────────────────┘ └─────────────────┘  │ │
+│ └────────────────────────┘  └──────────────────────────────────────────────┘ │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+UPLOAD TAB - WENN DU PROJEKTE HOCHLÄDST
+════════════════════════════════════════════════════════════════════════════════
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  📤 Projekt hochladen                                                       │
+└────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────┐  ┌─────────────────────────────────────┐
+│                                 │  │  📌 Wie funktioniert's?             │
+│        ┌──────────────┐         │  │                                     │
+│        │      📁      │         │  │  1️⃣  Ordner auswählen              │
+│        │              │         │  │      Wähle deinen Projekt-Ordner    │
+│        │              │         │  │                                     │
+│        │ Ziehe Ordner │         │  │  2️⃣  Automatische Analyse          │
+│        │   hier hin   │         │  │      System scannt alle Dateien     │
+│        │     oder     │         │  │                                     │
+│        │    klick     │         │  │  3️⃣  GitHub verknüpfen             │
+│        └──────────────┘         │  │      Gib die GitHub-Repo-URL ein    │
+│                                 │  │                                     │
+│  [Ordner auswählen Button]      │  │  4️⃣  Ergebnisse sehen              │
+│                                 │  │      Alle Daten im Dashboard        │
+└─────────────────────────────────┘  └─────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+PROJEKTE TAB - NACH UPLOAD
+════════════════════════════════════════════════════════════════════════════════
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  📁 Deine Projekte                                                          │
+└────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────┐  ┌──────────────────────────────────────┐
+│                                  │  │                                      │
+│  📂 KasparHauserBot              │  │  📂 BOTi                             │
+│  ─────────────────────────────  │  │  ──────────────────────────────────  │
+│                                  │  │                                      │
+│  💻 3500 Code-Zeilen             │  │  💻 8200 Code-Zeilen                │
+│  📁 15 Dateien                   │  │  📁 28 Dateien                      │
+│  🎯 12 Skills                    │  │  🎯 18 Skills                       │
+│  🌐 5 Sprachen                   │  │  🌐 3 Sprachen                      │
+│                                  │  │                                      │
+│  [HTML] [JS] [CSS] [Python]      │  │  [HTML] [JS] [CSS]                  │
+│                                  │  │                                      │
+│  🎯 Top Skills:                  │  │  🎯 Top Skills:                     │
+│  Claude API, Canvas, React       │  │  Game Dev, Canvas, PWA              │
+│                                  │  │                                      │
+│  🌐 GitHub                       │  │  ⚠️  Kein GitHub                    │
+│  ⭐ 42 Stars                     │  │  [Jetzt verknüpfen]                 │
+│  🍴 8 Forks                      │  │                                      │
+│                                  │  │                                      │
+│  [Löschen]                       │  │  [Löschen]                          │
+│                                  │  │                                      │
+└──────────────────────────────────┘  └──────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+DATEIEN TAB - ALLE DATEIEN AUFGELISTET
+════════════════════════════════════════════════════════════════════════════════
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  📂 Dateistruktur                                                           │
+└────────────────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  📂 KasparHauserBot (15 Dateien)                                           │
+│  ────────────────────────────────────────────────────────────────────────  │
+│                                                                            │
+│  ┌─────────────────────────────┐  ┌─────────────────────────────┐         │
+│  │ 🌐 index.html              │  │ ⚙️ script.js              │         │
+│  │ HTML | 45.2 KB             │  │ JavaScript | 28.5 KB      │         │
+│  └─────────────────────────────┘  └─────────────────────────────┘         │
+│                                                                            │
+│  ┌─────────────────────────────┐  ┌─────────────────────────────┐         │
+│  │ 🎨 styles.css              │  │ 📚 README.md              │         │
+│  │ CSS | 15.3 KB              │  │ Markdown | 8.9 KB         │         │
+│  └─────────────────────────────┘  └─────────────────────────────┘         │
+│                                                                            │
+│  [weitere Dateien...]                                                    │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+ANALYSE TAB - STATISTIKEN & SKILLS
+════════════════════════════════════════════════════════════════════════════════
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  📈 Detaillierte Analyse                                                    │
+└────────────────────────────────────────────────────────────────────────────┘
+
+┌────────────────┐  ┌────────────────┐  ┌────────────────────────┐
+│  🎯 Top Skills │  │ 📚 Sprachen    │  │ 📊 Statistiken         │
+│  ───────────── │  │ ─────────────  │  │ ──────────────────────  │
+│                │  │                │  │                        │
+│ Claude API     │  │ JavaScript     │  │ 📊 Projekte:      2   │
+│ ████████░░ 80% │  │ ████████░░ 80% │  │                        │
+│                │  │                │  │ 💻 Code-Zeilen: 11700 │
+│ Canvas API     │  │ HTML           │  │                        │
+│ ███████░░░ 70% │  │ ███████░░░ 70% │  │ 📁 Dateien:        43 │
+│                │  │                │  │                        │
+│ React          │  │ CSS            │  │ ⭐ GitHub Stars:    50 │
+│ ██████░░░░ 60% │  │ ██████░░░░ 60% │  │                        │
+│                │  │                │  │ 🍴 Forks:             8 │
+│ PWA            │  │ Python         │  │                        │
+│ █████░░░░░ 50% │  │ █░░░░░░░░░ 10% │  │ 🔗 Verknüpft:        2 │
+│                │  │                │  │                        │
+│ GameDev        │  │ TypeScript     │  │                        │
+│ ████░░░░░░ 40% │  │ ░░░░░░░░░░  0% │  │                        │
+│                │  │                │  │                        │
+└────────────────┘  └────────────────┘  └────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+DESIGN MERKMALE
+════════════════════════════════════════════════════════════════════════════════
+
+✨ DESIGN FEATURES:
+  ✅ Blau-Weiß Color Scheme (Unwritten Brand)
+  ✅ Dunkler Dark Mode (#0a0a0a Background)
+  ✅ Elegante Übergänge & Animationen
+  ✅ Responsive (Desktop, Tablet, Mobile)
+  ✅ Plus Jakarta Sans Font (Modern)
+  ✅ Schöne Hover-Effekte
+  ✅ Progress-Bars mit Gradient
+  ✅ Glasmorphism Design (Frosted Glass)
+
+🎯 INTERAKTIVE ELEMENTE:
+  ✅ Drag & Drop Upload
+  ✅ Klickbare Tabs
+  ✅ GitHub Links (öffnen in neuem Tab)
+  ✅ Delete Buttons
+  ✅ "Repo verknüpfen" Buttons
+  ✅ GitHub Modal (nach Upload)
+
+📊 DATEN-ANZEIGE:
+  ✅ Statistik-Karten mit großen Zahlen
+  ✅ Project Cards mit allen Details
+  ✅ Skill-Bars mit Prozentsätze
+  ✅ File-List mit Icons & Größen
+  ✅ GitHub-Info (Stars, Forks, Sprache)
+  ✅ Feature Cards mit Beschreibungen
+
+
+════════════════════════════════════════════════════════════════════════════════
+NAVIGATON - DIE 5 TABS (SIDEBAR)
+════════════════════════════════════════════════════════════════════════════════
+
+📊 Dashboard
+   → Hauptseite
+   → 4 Statistik-Karten
+   → 4 Feature-Cards
+   → Willkommen-Bereich
+
+📤 Upload
+   → Drag & Drop Area
+   → Ordner-Button
+   → Step-by-Step Anleitung
+   → GitHub-Modal
+
+📁 Projekte
+   → Projekt-Cards (Grid-Layout)
+   → Code-Zeilen, Dateien, Skills
+   → GitHub-Info
+   → Löschen-Button
+
+📂 Dateien
+   → Alle Dateien aufgelistet
+   → Mit Icons (HTML 🌐, JS ⚙️, CSS 🎨, etc.)
+   → Mit Größe, Typ, Pfad
+   → Nach Projekt gruppiert
+
+📈 Analyse
+   → Top Skills (mit Progress-Bars)
+   → Programmiersprachen
+   → Gesamt-Statistiken
+   → GitHub Stats
+
+
+════════════════════════════════════════════════════════════════════════════════
+ZUSAMMENFASSUNG - DAS DESIGN
+════════════════════════════════════════════════════════════════════════════════
+
+Die Software ist:
+  ✅ Professionell & elegant
+  ✅ Einfach zu bedienen
+  ✅ Modern mit schönen Animationen
+  ✅ Blau-Weiß Design (saubere Farben)
+  ✅ Responsive (funktioniert überall)
+  ✅ Schnell & intuitiv
+  ✅ Übersichtlich organisiert
+
+Features:
+  ✅ Auto-Analyse (Code, Skills, Sprachen)
+  ✅ GitHub-Integration
+  ✅ Dateistruktur-Anzeige
+  ✅ Schöne Statistiken
+  ✅ Einfache Bedienung
+  ✅ 100% offline
+  ✅ localStorage Persistenz
+
+
+════════════════════════════════════════════════════════════════════════════════
